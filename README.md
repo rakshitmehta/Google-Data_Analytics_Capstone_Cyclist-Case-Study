@@ -1,8 +1,10 @@
-# Intoduction
+# Google-Data_Analytics_Capstone_Cyclist-Case-Study
+
+## Intoduction
 In this case study will perform many real world taks of a data analyst
 
-# Background
-## Cyclist 
+## Background
+### Cyclist 
 A bike s
 ### lily
 
