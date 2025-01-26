@@ -5,7 +5,7 @@ In this case study will perform many real world taks of a data analyst
 
 ## Background
 ### Cyclist 
-A bike s
+A bike sharing company that features 5,800 motorcycles and 600 docking stations.Its sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes,making bike sharing inclusive to people with disabilities and riders who are not able to use standarad two wheeled bike.Majority of riders opt for traditional bikes; where 8% use assistive options. 
 ### lily
 
 ## Scenario
