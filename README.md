@@ -16,4 +16,5 @@ The infamous detail oriented executive team which will decide whether to approve
 ## Scenario
 Working as a junior data analyst on the marketing analyst team at Cyclist , a bike sharing company in chicago. The director of marketing belives the company's future sucess depends upon the potential to maximize the number of annual memberships. Therefore will need to understand how casual and annual members use cyclist bikes differently. From these insights , team will need to design new marketing stategy to convert casual riders into annual members.
 ## About the company
-In year 2016, comapany launched bike sharing program.
+In year 2016, comapany launched bike sharing program.Since then the service has elevated to a fleet of 5824 bicycles that are geotracked and locked into a network of 692 docking stations across chicago. Any person can unlock the bike from one station and return to any other station in the system anytime.
+Company until now relied on general awareness and broad consumer segments. Startegy that majorly helped in making things possible is casual 
